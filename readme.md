@@ -1,4 +1,4 @@
-Types of Common Problems:
+<h1>Types of Common Problems:</h1>
 DOM-related Errors – Keep in Mind the Order of Execution
 SyntaxError
 
