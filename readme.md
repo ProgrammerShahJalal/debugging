@@ -1,6 +1,6 @@
 <h1>Types of Common Problems:</h1>
 <h3>DOM-related Errors – Keep in Mind the Order of Execution</h3>
-<q>SyntaxError</q>
+<blockquote>SyntaxError</blockquote>
 
 <li>কোডে কিছু মিসিং বা ভুল আছে, যেমনঃ ব্রাকেট, সেমিকোলন, কোলন, কমা।</li>
 <li>Solution: কমেন্ট করে প্রবলেম এরিয়া ছোট করার ট্রাই করবো।</li>
