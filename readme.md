@@ -16,10 +16,11 @@
 <li>Solution: বানান ঠিক আছে কিনা চেক করা।</li>
 
 <blockquote>TypeError</blockquote>
+ 
 <li>আমরা যেই মেথড/প্রোপার্টি ব্যবহার করার ট্রাই করতেছি, সেটা বর্তমান টাইপ এর অব্জেক্ট এর উপর ব্যবহার করা যায় না।
 HTMLelement =
 
-Kuddus is a good boy
+<h2>Kuddus is a good boy</h2>
 HTMLelement.innerText HTMLelement.innerHTML HTMLelement.textContent Array/String.length HTMLelement.value
 
 arrayMethod arr.forEach() arr.map() arr.filter() arr.find()
@@ -40,5 +41,7 @@ null, বা undefined এর ক্ষেত্রে কোনো প্রো
 <li>console.log() variables, function calls that you think might have caused issues</li>
 <li>Fetch এর জন্য
 
- [{},{}] {docs: [{}, {}]}</li>
- <blockquote>HW এগুলো নিজে ক্রিয়েট করে প্র্যাক্টিস করবেন। ফেচ এর লিংক ভুল হলে এরর ডীটেক্ট করা TypeError গুলো ReferenceError</blockquote>
+[{},{}] {docs: [{}, {}]}</li>
+ 
+ 
+<blockquote>HW এগুলো নিজে ক্রিয়েট করে প্র্যাক্টিস করবেন। ফেচ এর লিংক ভুল হলে এরর ডীটেক্ট করা TypeError গুলো ReferenceError</blockquote>
