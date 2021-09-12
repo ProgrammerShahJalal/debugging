@@ -1,20 +1,20 @@
 <h1>Types of Common Problems:</h1>
 <h3>DOM-related Errors – Keep in Mind the Order of Execution</h3>
-<p>SyntaxError</p>
+<q>SyntaxError</q>
 
 <li>কোডে কিছু মিসিং বা ভুল আছে, যেমনঃ ব্রাকেট, সেমিকোলন, কোলন, কমা।</li>
 <li>Solution: কমেন্ট করে প্রবলেম এরিয়া ছোট করার ট্রাই করবো।</li>
-<p>ReferenceError<p>
+<q>ReferenceError<q>
 
-এমন কোনো লিখছেন, যা এখনো ডিফাইন করা হয় নাই।
+<li>এমন কোনো লিখছেন, যা এখনো ডিফাইন করা হয় নাই।</li>
 
-Common issue: Spelling Mistake
+ <li>Common issue: Spelling Mistake</li>
 
-variableName is not defined
+ <li>variableName is not defined</li>
 
-functionName is not defined
+ <li>functionName is not defined</li>
 
-Solution: বানান ঠিক আছে কিনা চেক করা।
+ <li>Solution: বানান ঠিক আছে কিনা চেক করা।</li>
 
 TypeError
 
