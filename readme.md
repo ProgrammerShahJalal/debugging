@@ -4,7 +4,7 @@
 
 <li>কোডে কিছু মিসিং বা ভুল আছে, যেমনঃ ব্রাকেট, সেমিকোলন, কোলন, কমা।</li>
 <li>Solution: কমেন্ট করে প্রবলেম এরিয়া ছোট করার ট্রাই করবো।</li>
-<blockquote>ReferenceError<blockquote>
+<blockquote>ReferenceError</blockquote>
 <li>এমন কোনো লিখছেন, যা এখনো ডিফাইন করা হয় নাই।</li>
 
 <li>Common issue: Spelling Mistake</li>
