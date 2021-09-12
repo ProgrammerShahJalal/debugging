@@ -1,6 +1,6 @@
 <h1>Types of Common Problems:</h1>
-DOM-related Errors – Keep in Mind the Order of Execution
-SyntaxError
+<h3>DOM-related Errors – Keep in Mind the Order of Execution</h3>
+<p>SyntaxError</p>
 
 কোডে কিছু মিসিং বা ভুল আছে, যেমনঃ ব্রাকেট, সেমিকোলন, কোলন, কমা।
 Solution: কমেন্ট করে প্রবলেম এরিয়া ছোট করার ট্রাই করবো।
